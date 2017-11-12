@@ -1,1 +1,1 @@
-# SpringMLPlatform
+# SpringPlatform
